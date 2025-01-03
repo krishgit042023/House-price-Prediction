@@ -48,7 +48,7 @@ Investigate correlations between features and target variable (Price).
 Model Building:
 
 Split the dataset into training and testing sets.
-Train multiple regression models, such as Linear Regression, Random Forest Regression, and XGBoost.
+Train multiple regression models, such as Linear Regression, Random Forest Regression.
 Tune the model’s hyperparameters for optimal performance.
 Model Evaluation:
 
